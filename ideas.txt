@@ -1,0 +1,25 @@
+A autobattle card game (quik 4 players)
+
+cards are pulled from a pool
+
+pool levels 1-5
+
+upgrades every turn
+
+everyone starts with a peasant
+
+"Heroes are greek gods"
+
+"Zeus, Poseidon, Hera, Hestia and Demeter, Hades, and later on Apollo, Artemis, Hermes, Athena, Hephaestus, Aphrodite and Ares"
+
+Heroes have specialized cards in the pool
+
+Pool cards are minoions and spells
+
+Max cards on table 5
+
+1 on 1 battle
+
+best of 5
+
+ai generated art
